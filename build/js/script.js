@@ -27,24 +27,3 @@ $scrolltop.click(function () {
     }, 1000);
     return false;
 });
-
-
-var initTitle = $('.clients-title').html();
-
-$('.clients-item').hover(function() {
-    $('.clients-title').html($(this).data('title'));
-  },
-  function() {
-    $('.clients-title').html(initTitle);
-  }
-);
-
-var $scrolltitle = $('.services-bg');
-
-$(window).scroll(function () {
-    if ($(this).scrollTop() > 800) {
-        $scrolltitle.fadeIn();
-    } else {
-        $scrolltitle.fadeOut();
-    }
-});
