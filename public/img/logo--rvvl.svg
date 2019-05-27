@@ -4,21 +4,13 @@
     <title>02</title>
     <desc>Created with Sketch.</desc>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="revival_logo" transform="translate(-432.000000, -132.000000)">
-            <g id="02" transform="translate(432.000000, 132.000000)">
+        <g id="Artboard" transform="translate(-356.000000, -237.000000)">
+            <g id="02" transform="translate(356.000000, 237.000000)">
                 <rect id="Rectangle" stroke="#FFE700" stroke-width="3" x="1.5" y="1.5" width="157" height="177"></rect>
-                <text id="R" font-family="Montserrat-Black, Montserrat" font-size="80" font-weight="700" fill="#FFE700">
-                    <tspan x="19" y="88">R</tspan>
-                </text>
-                <text id="V" font-family="Montserrat-Black, Montserrat" font-size="80" font-weight="700" fill="#FFE700">
-                    <tspan x="74" y="88">V</tspan>
-                </text>
-                <text id="V" font-family="Montserrat-Black, Montserrat" font-size="80" font-weight="700" fill="#FFE700">
-                    <tspan x="26" y="150">V</tspan>
-                </text>
-                <text id="L" font-family="Montserrat-Black, Montserrat" font-size="80" font-weight="700" fill="#FFE700">
-                    <tspan x="91" y="150">L</tspan>
-                </text>
+                <path d="M47.56,73.92 L42.44,73.92 L42.44,88 L23.56,88 L23.56,32 L50.52,32 C55.6933592,32 60.1999808,32.8533248 64.04,34.56 C67.8800192,36.2666752 70.8399896,38.719984 72.92,41.92 C75.0000104,45.120016 76.04,48.853312 76.04,53.12 C76.04,57.12002 75.1333424,60.6133184 73.32,63.6 C71.5066576,66.5866816 68.8933504,68.9599912 65.48,70.72 L77.24,88 L57.08,88 L47.56,73.92 Z M57,53.12 C57,51.0399896 56.3600064,49.4266724 55.08,48.28 C53.7999936,47.1333276 51.8800128,46.56 49.32,46.56 L42.44,46.56 L42.44,59.68 L49.32,59.68 C51.8800128,59.68 53.7999936,59.1066724 55.08,57.96 C56.3600064,56.8133276 57,55.2000104 57,53.12 Z" id="R" fill="#FFE700" fill-rule="nonzero"></path>
+                <polygon id="V" fill="#FFE700" fill-rule="nonzero" points="138.4 32 114.72 88 96.16 88 72.48 32 92.8 32 106.16 64.72 119.84 32"></polygon>
+                <polygon id="V" fill="#FFE700" fill-rule="nonzero" points="90.4 94 66.72 150 48.16 150 24.48 94 44.8 94 58.16 126.72 71.84 94"></polygon>
+                <polygon id="L" fill="#FFE700" fill-rule="nonzero" points="95.56 94 114.44 94 114.44 135.36 139.72 135.36 139.72 150 95.56 150"></polygon>
             </g>
         </g>
     </g>

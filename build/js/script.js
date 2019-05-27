@@ -27,3 +27,16 @@ $scrolltop.click(function () {
     }, 1000);
     return false;
 });
+
+
+var $scrollanchor = $('.js-scroll-anchor');
+
+$scrollanchor.click(function (evt) {
+    evt.preventDefault();
+    $('body').removeClass('open-menu');
+    $('html').removeClass('overflow-hidden');
+
+    var aid = $(this).attr("href");
+    $('html, body').animate({
+        scrollTop: $(aid).offset().top},'slow');
+});
